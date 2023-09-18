@@ -22,16 +22,19 @@
 
 **Results:** Using MySql queries we want to answer the following questions:
 1.	What is the total revenue for each category?
-	![Alt text](https://github.com/SerenaLangiano/Portfolio-Projects/blob/5f59f0f21546bc755187c409ff9a8932cc669a1f/Ecommerce-Analysis/Pictures/Question1.png)
+	
+ ![Alt text](https://github.com/SerenaLangiano/Portfolio-Projects/blob/5f59f0f21546bc755187c409ff9a8932cc669a1f/Ecommerce-Analysis/Pictures/Question1.png)
 
 2.	Which customer has the most orders?
-	![Alt text](https://github.com/SerenaLangiano/Portfolio-Projects/blob/5f59f0f21546bc755187c409ff9a8932cc669a1f/Ecommerce-Analysis/Pictures/Question2.png)
+	
+ ![Alt text](https://github.com/SerenaLangiano/Portfolio-Projects/blob/5f59f0f21546bc755187c409ff9a8932cc669a1f/Ecommerce-Analysis/Pictures/Question2.png)
  
 3.	What is the average order value for each customer?	
 	![Alt text](https://github.com/SerenaLangiano/Portfolio-Projects/blob/5f59f0f21546bc755187c409ff9a8932cc669a1f/Ecommerce-Analysis/Pictures/Question3.png)
  
 4.	What is the total revenue for each month?
-	![Alt text](https://github.com/SerenaLangiano/Portfolio-Projects/blob/5f59f0f21546bc755187c409ff9a8932cc669a1f/Ecommerce-Analysis/Pictures/Question4.png)
+	
+ ![Alt text](https://github.com/SerenaLangiano/Portfolio-Projects/blob/5f59f0f21546bc755187c409ff9a8932cc669a1f/Ecommerce-Analysis/Pictures/Question4.png)
  
 5.	Which products have been ordered the most and how many times?
 	![Alt text](https://github.com/SerenaLangiano/Portfolio-Projects/blob/5f59f0f21546bc755187c409ff9a8932cc669a1f/Ecommerce-Analysis/Pictures/Question5.png)
