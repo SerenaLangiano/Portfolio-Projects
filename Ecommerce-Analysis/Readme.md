@@ -6,7 +6,7 @@
 **Description:** The project focused on analyzing a dataset of an eCommerce to gain insights such as revenue analysis, customer behaviour, product analysis and more. The dataset is store in two different database:
 - "ecommerce" which contains two tables:
 	- Customer table: it contains information on the customers 
-	  [photo]
+	  ![Alt text](https://github.com/SerenaLangiano/Portfolio-Projects/blob/5f59f0f21546bc755187c409ff9a8932cc669a1f/Ecommerce-Analysis/Pictures/Customers_table.png)
 	- Produc table: it contains information on the products:
 	  [photo]
 -"shipping" containing two tables:
