@@ -1,5 +1,5 @@
 ### Ecommerce Analysis with MySql
-**Code:** [`name.ipynb`](link)
+**Code:** [`name.ipynb`](https://github.com/SerenaLangiano/Portfolio-Projects/blob/main/Ecommerce-Analysis/Ecommerce%20project%20MySQL%20queries.sql)
 
 **Goal:** To analyse an eCommerce dataset to gain insights into the data.
 
