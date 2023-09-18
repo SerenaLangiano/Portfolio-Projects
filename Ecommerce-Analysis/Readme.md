@@ -22,32 +22,32 @@
 
 **Results:** Using MySql queries we want to answer the following questions:
 1.	What is the total revenue for each category?
-	[photo]
+	![Alt text](https://github.com/SerenaLangiano/Portfolio-Projects/blob/5f59f0f21546bc755187c409ff9a8932cc669a1f/Ecommerce-Analysis/Pictures/Question1.png)
 
 2.	Which customer has the most orders?
-	[photo]
+	![Alt text](https://github.com/SerenaLangiano/Portfolio-Projects/blob/5f59f0f21546bc755187c409ff9a8932cc669a1f/Ecommerce-Analysis/Pictures/Question2.png)
  
 3.	What is the average order value for each customer?	
-	[photo]
+	![Alt text](https://github.com/SerenaLangiano/Portfolio-Projects/blob/5f59f0f21546bc755187c409ff9a8932cc669a1f/Ecommerce-Analysis/Pictures/Question3.png)
  
 4.	What is the total revenue for each month?
-	[photo]
+	![Alt text](https://github.com/SerenaLangiano/Portfolio-Projects/blob/5f59f0f21546bc755187c409ff9a8932cc669a1f/Ecommerce-Analysis/Pictures/Question4.png)
  
 5.	Which products have been ordered the most and how many times?
-	[photo]
+	![Alt text](https://github.com/SerenaLangiano/Portfolio-Projects/blob/5f59f0f21546bc755187c409ff9a8932cc669a1f/Ecommerce-Analysis/Pictures/Question5.png)
  
 6.	Which customers have ordered a particular product and how many times?
-	[photo]
+	![Alt text](https://github.com/SerenaLangiano/Portfolio-Projects/blob/5f59f0f21546bc755187c409ff9a8932cc669a1f/Ecommerce-Analysis/Pictures/Question6.png)
  
 7.	What is the average order value for each month?
-	[photo]
+	![Alt text](https://github.com/SerenaLangiano/Portfolio-Projects/blob/5f59f0f21546bc755187c409ff9a8932cc669a1f/Ecommerce-Analysis/Pictures/Question7.png)
  
 8.	What is the average quantity ordered for each product?
-	[photo]
+	![Alt text](https://github.com/SerenaLangiano/Portfolio-Projects/blob/5f59f0f21546bc755187c409ff9a8932cc669a1f/Ecommerce-Analysis/Pictures/Question8.png)
  
 9.	Which category has the highest revenue per customer on average?
-	[photo]
+	![Alt text](https://github.com/SerenaLangiano/Portfolio-Projects/blob/5f59f0f21546bc755187c409ff9a8932cc669a1f/Ecommerce-Analysis/Pictures/Question9.png)
  
 10.	What is the total revenue for each status and month combination?
-	[photo] 
+	![Alt text](https://github.com/SerenaLangiano/Portfolio-Projects/blob/5f59f0f21546bc755187c409ff9a8932cc669a1f/Ecommerce-Analysis/Pictures/Question10.png)
 
