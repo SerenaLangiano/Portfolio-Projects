@@ -7,13 +7,14 @@
 - "ecommerce" which contains two tables:
 	- Customer table: it contains information on the customers 
 	  ![Alt text](https://github.com/SerenaLangiano/Portfolio-Projects/blob/5f59f0f21546bc755187c409ff9a8932cc669a1f/Ecommerce-Analysis/Pictures/Customers_table.png)
-	- Produc table: it contains information on the products:
-	  [photo]
+	- Product table: it contains information on the products:
+	  ![Alt text](https://github.com/SerenaLangiano/Portfolio-Projects/blob/5f59f0f21546bc755187c409ff9a8932cc669a1f/Ecommerce-Analysis/Pictures/Products_table.png)
+   
 -"shipping" containing two tables:
 	- Orders table: it contains information on the order:
-	[photo]
+	![Alt text](https://github.com/SerenaLangiano/Portfolio-Projects/blob/5f59f0f21546bc755187c409ff9a8932cc669a1f/Ecommerce-Analysis/Pictures/Orders_table.png)
 	- Order_items: it contains other information of the order:
- 	[photo] 
+ 	![Alt text](https://github.com/SerenaLangiano/Portfolio-Projects/blob/5f59f0f21546bc755187c409ff9a8932cc669a1f/Ecommerce-Analysis/Pictures/Orders_items_table.png) 
 
 **Skills:** database, MySql, queries.
 
