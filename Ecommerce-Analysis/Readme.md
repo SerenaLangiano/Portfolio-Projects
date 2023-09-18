@@ -1,9 +1,9 @@
 ### Ecommerce Analysis with MySql
 **Code:** [`Ecommerce project MySQL queries.sql`](https://github.com/SerenaLangiano/Portfolio-Projects/blob/main/Ecommerce-Analysis/Ecommerce%20project%20MySQL%20queries.sql)
 
-**Goal:** To analyse an eCommerce dataset to gain insights into the data.
+**Goal:** To analyse an eCommerce dataset to gain insights on the data.
 
-**Description:** The project focused on analyzing a dataset of an eCommerce to gain insights such as revenue analysis, customer behaviour, product analysis and more. The dataset is store in two different database:
+**Description:** The project focuses on the analysis of an eCommerce dataset to gain insights on revenues, customer behaviour, products and more. The data is stored in two different databases:
 - "ecommerce" which contains two tables:
 	- Customer table: it contains information on the customers 
 	  ![Alt text](https://github.com/SerenaLangiano/Portfolio-Projects/blob/5f59f0f21546bc755187c409ff9a8932cc669a1f/Ecommerce-Analysis/Pictures/Customers_table.png)
@@ -16,11 +16,11 @@
 	- Order_items: it contains other information of the order:
  	![Alt text](https://github.com/SerenaLangiano/Portfolio-Projects/blob/5f59f0f21546bc755187c409ff9a8932cc669a1f/Ecommerce-Analysis/Pictures/Orders_items_table.png) 
 
-**Skills:** database, MySql, queries.
+**Skills:** database, MySQL, queries.
 
-**Technology:** MySql
+**Technology:** MySQL
 
-**Results:** Using MySql queries we want to answer the following questions:
+**Results:** Using MySQL queries we want to answer to the following questions:
 1.	What is the total revenue for each category?
 	
  ![Alt text](https://github.com/SerenaLangiano/Portfolio-Projects/blob/5f59f0f21546bc755187c409ff9a8932cc669a1f/Ecommerce-Analysis/Pictures/Question1.png)
