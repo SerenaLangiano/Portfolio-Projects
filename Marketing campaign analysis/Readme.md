@@ -1,5 +1,5 @@
 ### Marketing campaigns Analysis - Computer software Company
-**Code:** [`Marketing-Campaigns-analysis.ipynb`](https://github.com/SerenaLangiano/Portfolio-Projects/blob/main/Marketing campaigns Analysis - Computer software Company/Marketing-Campaigns-analysis.ipynb)
+**Code:** [`Marketing-Campaigns-analysis.ipynb`](https://github.com/SerenaLangiano/Portfolio-Projects/blob/main/Marketing%20campaign%20analysis/Marketing-Campaigns-analysis.ipynb)
 
 **Goal:** To analyze the performance of four marketing campaigns.
 
