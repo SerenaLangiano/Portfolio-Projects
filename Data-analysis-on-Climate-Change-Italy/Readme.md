@@ -5,7 +5,7 @@
 
 **Description:** The project focused on analyzing a dataset of temperature measurements at 2 meters height in Italy. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the trend of the average temperature in Italy and estimate the annual variation.
 
-**Skills:** data extraction, data cleaning, data analysis, data visualization.
+**Skills:** data extraction, data cleaning, data analysis, data visualisation.
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy, Xarray, Geopandas, Shapely.
 
