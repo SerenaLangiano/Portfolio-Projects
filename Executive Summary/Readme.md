@@ -1,5 +1,5 @@
 ### Executive Summary Adventure Works
-**Code:** [`Executive summary`](https://github.com/SerenaLangiano/Portfolio-Projects/blob/240c81fad9e5c0600efbf0f13c16c1f70f7baea8/Executive%20Summary/Adventure%20Works%20Executive%20Summary.pbix)
+**Code:** [`Executive summary`](https://github.com/SerenaLangiano/Portfolio-Projects/blob/98cf9a25fff4c9263d23c7ef1c4ac6e18d304a67/Executive%20Summary/Adventure%20Works%20Executive%20Summary.pdf)
 
 **Goal:** To analyse sales and customers data for Adventure Works, a company which specialises in bikes.
 
