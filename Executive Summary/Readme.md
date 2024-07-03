@@ -1,5 +1,5 @@
 ### Executive Summary Adventure Works
-**Code:** [`Data-analysis-on-Climate-Change-Italy.ipynb`](https://github.com/SerenaLangiano/Portfolio-Projects/blob/main/Data-analysis-on-Climate-Change-Italy/Data-analysis-on-Climate-Change-Italy.ipynb)
+**Code:** [`Executive summary`](https://github.com/SerenaLangiano/Portfolio-Projects/blob/0d3ffc182b88fb1ca6267a0f2217b5be2eeb62a1/Executive%20Summary/Adventure%20Works%20Executive%20Summary.pbix)
 
 **Goal:** To analyse sales and customers data for Adventure Works, a company which specialises in bikes.
 
